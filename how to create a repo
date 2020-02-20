@@ -1,0 +1,14 @@
+                                           HOW TO CREATE A REPOSITORY IN GITHUB
+                                           
+ STEP1:Go to your web browser and login into your github account.
+ 
+ STEP2:Then at top left you can see 'new' option above repositories box,click on that.
+ 
+ STEP3:And then give the repository name and click on create repository.
+ 
+ STEP4:After creating repository, how to create repo in command line is displayed(if you want to create repo by cmd or terminal go through it ).
+       Below the 'Quick setup' you can see a link for creating a new file,click on that.
+       
+ STEP5:Then give a name to your file and give the information that to be displayed in your file.
+ 
+ STEP6:Finally click on 'commit new file' to complete the process
